@@ -1,6 +1,6 @@
 # News & Tweets Scraper – Data-Driven Market Insights
 
-[![Watch the video](https://img.youtube.com/vi/Iah3I8aj3DQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Iah3I8aj3DQ)
+![Demo](demo.gif)
 
 Welcome to this project repository, where modern data engineering meets thoughtful design. This application automates the process of scraping news articles and tweets based on user-defined keywords, analyzes the gathered content, and suggests market segments that might benefit from a user's products or services. It then generates a targeted list of companies from the Crunchbase database via Snowflake. Designed with robust engineering practices in mind, this solution is ideal for running refined marketing campaigns.
 
